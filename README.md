@@ -4,7 +4,7 @@ A simple page to see if your minecraft server is online with some basic stats li
 [Edited template located on GitHub Pages](https://chillgrief.github.io/status)
 
 ## Requirements
-- Any server for static sites
+- Any webserver for static sites
 
 ## Setup
 1. Clone this repository on your webserver
