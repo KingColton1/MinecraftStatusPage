@@ -8,29 +8,18 @@ A simple page to see if your minecraft server is online with some basic stats li
 
 ## Setup
 1. Clone this repository on your webserver
-2. Open index.html
-3. In "STATUS SECTION" add the required number of servers:
-```html
-...
-<div class="section"> <!-- STATUS SECTION -->
-  <div id="server_id"></div> <!-- thats your server -->
-</div>
-...
+2. Open server.txt
+3. Add your server(s) IP
+
+Example:
 ```
-4. Replace assets/minecraft-logo.svg by your logo
-5. And replace assets/background.jpg by your background
-6. Open fetch.js
-7. Find this piece of code and add your server
-```javascript
-...
-async function fetchServers()
-{
-	// your server setup
-	let server_id = await fetchData('mc.hypixel.net');
-	insertData('server_id', server_id, "Hypixel", "My description");
-}
-...
+mc.hypixel.net
 ```
+or
+```
+mc.hypixel.net,2b2t.org
+```
+
 8. Save all changes and upload your website
 9. Enjoy
 
