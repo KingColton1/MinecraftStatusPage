@@ -32,4 +32,4 @@ mc.hypixel.net,2b2t.org
 ![dummy screenshot 2](https://raw.githubusercontent.com/DonTSmi1e/MinecraftStatusPage/main/screenshot2.png)
 
 ## Credits
-### Thanks to [styxit](https://github.com/styxit/MinecraftStatusPage) for creating his original page and styling it, your template really helped me not to worry about the look of my site.
+### Forked from [styxit/MinecraftStatusPage](https://github.com/styxit/MinecraftStatusPage)
