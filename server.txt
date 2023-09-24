@@ -1,1 +1,1 @@
-mc.hypixel.net;play.teslacraft.org
+mc.hypixel.net,play.teslacraft.org
