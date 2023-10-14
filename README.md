@@ -1,4 +1,4 @@
-# Minecraft server status page (but in JavaScript)
+# Minecraft server status page using JavaScript (and with full list of online player names)
 A simple page to see if your minecraft server is online with some basic stats like the version and amount of players online.
 
 [That repo located on GitHub Pages](https://dontsmi1e.github.io/MinecraftStatusPage)
@@ -32,4 +32,5 @@ mc.hypixel.net,2b2t.org
 ![dummy screenshot 2](https://raw.githubusercontent.com/DonTSmi1e/MinecraftStatusPage/main/screenshot2.png)
 
 ## Credits
-### Forked from [styxit/MinecraftStatusPage](https://github.com/styxit/MinecraftStatusPage)
+### Original repo: [styxit/MinecraftStatusPage](https://github.com/styxit/MinecraftStatusPage)
+### Forked from [DonTSmi1e/MinecraftStatusPage](https://github.com/DonTSmi1e/MinecraftStatusPage)
